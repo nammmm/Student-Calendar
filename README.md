@@ -3,6 +3,9 @@
 ## Introduction
   This is my high school final project for Computer Science SL course. The target users are students taking IBDP program in my high school. This project aims to facilitate my peers' working effciency by providing a track list of their upcoming events. I tried to emulate the Metro UI effect on my project.
 ![welcome](https://raw.githubusercontent.com/nammmm/Student-Calendar/master/screenshots/01_Welcome.png)
+
+## Instruction
+  Include all files and run *RunProgram.java* to execute the program.
   
 ## Screenshots
 ### Sign Up
